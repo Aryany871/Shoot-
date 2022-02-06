@@ -1,3 +1,4 @@
 # Shoot- A Fun Game
-A 2-d shooting game built using Kaboom.js library of Javascript.
+**I and tirthankarnandi44@gmail.com** built this 2-d shooting game
+together using Kaboom.js library of Javascript.
 Enjoy the game.
