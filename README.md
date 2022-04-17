@@ -20,7 +20,7 @@ Lose all the three lives and the game is over.
 **Controls:**
 To shoot - press the **right arrow key**,
 to jump - press the **up arrow key**,
-to restart after game over - press **spacebar**.
+to restart after **game over** - press **spacebar**.
 
 **Interesting, isn't it?**
 To play this game, download the files, and run the html file with live server (use code editors like VSCode, Atom, etc).
