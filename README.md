@@ -22,8 +22,8 @@ To shoot - press the **right arrow key**,
 to jump - press the **up arrow key**,
 to restart after game over - press **spacebar**.
 
-**Interesting isn't it?**
-To play this game, download the files, and open the html file with live server.
+**Interesting, isn't it?**
+To play this game, download the files, and run the html file with live server (use code editors like VSCode, Atom, etc).
 Make sure you're connected to internet while playing this game.
 
 **Thank You**
