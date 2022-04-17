@@ -27,4 +27,5 @@ To play this game, download the files, and open the html file with live server.
 Make sure you're connected to internet while playing this game.
 
 **Thank You**
+
 **Enjoy the Game!**
