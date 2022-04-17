@@ -18,8 +18,8 @@ Lose all the three lives and the game is over.
 
 
 **Controls:**
-To shoot - press the **right arrow key**,
-to jump - press the **up arrow key**,
+To shoot - press **right arrow key**,
+to jump - press **up arrow key**,
 to restart after **game over** - press **spacebar**.
 
 **Interesting, isn't it?**
