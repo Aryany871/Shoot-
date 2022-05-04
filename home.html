@@ -5,11 +5,53 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Play</title>
+    <style>
+        h1{
+            color: white;
+            text-align: center;
+            position: relative;
+            top:100px;
+            font-weight: 200;
+            font-size: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .container{
+            position: relative;
+            top:200px;
+            right: 40px;
+            display : flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        img,form{
+            padding: 40px;
+        }
+        
+        .second{
+            position: relative;
+            bottom: 20px;
+        }
+        button{
+            padding: 15px;
+            background-color: yellow;
+            font-weight: 200;
+            font-size: large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            cursor: pointer;
+        }
+
+    
+    </style>
 </head>
-<body>
-    <form class="form"  action="game.html">   <!-- action=GAMEKANAAM -->
+<body bgcolor="black">
+    <h1>SHOOT</h1>
+    <div class="container">
+    <img src="resources/player2.png" height="175px">
+    <form class="form"  action="game.html"> 
         <button type="submit" class="btn">PLAY GAME</button>
-        <!-- <input type="reset" class="btn" value="Reset">  -->
-</form> 
+    </form>
+    <img class="second" src="resources/Enamy.png" height="175px"> 
+    </div>
 </body>
 </html>
