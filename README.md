@@ -1,7 +1,5 @@
 # Shoot 
 
-**Game Link :** https://shoot254.netlify.app/
-
 **I and tirthankarnandi44@gmail.com** built this fun 2-d shooting game
 together using **Kaboom.js** library of **Javascript**.
 
